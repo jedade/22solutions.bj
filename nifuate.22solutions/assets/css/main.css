@@ -11,16 +11,16 @@ Version: 1.0.0
   --body: #fff;
   --black: #000;
   --white: #fff;
-  --theme: #384BFF;
-  --theme2: #384BFF;
+  --theme:  #008751;
+  --theme2: #FCD116;
   --header: #0F0D1D;
   --text: #585858;
   --text-2: #ffffffcc;
   --border: #E3E3E3;
   --border2: #242449;
-  --border3: #5262FF;
+  --border3: #E30B17;
   --bg: #F3F7FB;
-  --bg2: #18185E;
+  --bg2: #FCD116;
   --bg3: #ffffff33;
   --box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.06);
   --box-shadow-2:0px 4px 25px rgba(56, 75, 255, 0.1);
@@ -4486,7 +4486,7 @@ span {
   width: 100%;
   height: 100%;
   content: "";
-  background: linear-gradient(270deg, rgba(5, 26, 108, 0) 14.74%, #0A2DA4 70.82%);
+  background: linear-gradient(270deg, rgba(5, 26, 108, 0) 14.74%, #FCD116 70.82%);
   opacity: 0.95;
 }
 .hero-3 .hero-content {
@@ -7562,7 +7562,7 @@ input.main-search-input::placeholder {
 .testimonial-wrapper .testimonial-items .testimonial-content p {
   font-size: 18px;
   font-weight: 500;
-  border-bottom: 1px solid rgba(56, 75, 255, 0.2);
+  border-bottom: 1px solid rgba(255, 205, 56, 0.2);
   padding-bottom: 30px;
 }
 @media (max-width: 575px) {
